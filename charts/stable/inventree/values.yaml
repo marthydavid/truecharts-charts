@@ -1,6 +1,6 @@
 image:
   repository: tccr.io/truecharts/inventree
-  tag: 0.8.4@sha256:57888f289eb9b2f03c141842eec5ae3946df1176ddcde4810c70307df8429edd
+  tag: 0.9.0@sha256:b65b4a87c85d8151955834c293e7981b78cd56e88e195f80d58631df93b79d16
   pullPolicy: IfNotPresent
 
 nginxImage:
